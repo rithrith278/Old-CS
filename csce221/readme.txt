@@ -1,0 +1,6 @@
+This directory contains my submissions for programming assignments from my "CSCE 221 - Data Structures and Algorithms" course. These were my final submissions to Gradescope for these assignments, perfect or otherwise.
+
+Course Decription:
+"Specification and implementation of basic abstract data types and their associated algorithms including stacks, queues, lists, sorting and selection, searching, graphs, and hashing; performance tradeoffs of different implementations and asymptotic analysis of running time and memory usage; includes the execution of student programs written in C++."
+
+If I remember correctly, on PA-1, we were given complete header (.h) files from the initial skeleton code of the assignment. We were instructed not to submit them to gradescope as the graders, TAs or Gradescope performing the automatic grading of the PA, would use their own copies of the header file to make grading standardized across all submissions. We were being graded on our work on the .cpp files, but were provided header files for testing our code locally while working on the assignment.
